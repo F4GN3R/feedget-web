@@ -24,11 +24,11 @@ Interface web para envios de feedbacks com captura de tela.
 
 ## 🛠 Features
 
-- Permite ao usuário realizar todo o fluxo utilizando o teclado;
-- Permite ao usuário realizar a captura de tela atual;
-- Permite ao usuário refazer o preenchimento do feedback;
-- Permite ao usuário enviar quantos feedbacks desejar;
-- Permite ao usuário navegar pela aplicação tanto em dispositivos móveis quanto em desktop;
+- Permite realizar todo o fluxo apenas utilizando o teclado;
+- Disponibiliza o recurso de captura de tela;
+- O usuário pode ir e voltar entre os passos de preenchimento do feedback;
+- É possível repetir a operação quantas vezes desejar;
+- Resposividade em multiplos dispositivos;
 
 ## 🌎 Deploy
 

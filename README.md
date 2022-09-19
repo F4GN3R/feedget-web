@@ -2,7 +2,7 @@
 
 ## 💻 Projeto
 
-Interface web para envios de feedbacks com captura de tela, 100% responsivo e com recursos de acessibilidade.
+Interface web para envios de feedbacks com captura de tela.
 
 ## ✨ Tecnologias
 
@@ -17,11 +17,11 @@ Interface web para envios de feedbacks com captura de tela, 100% responsivo e co
 
 ## 🛠 Features
 
-- Permite realizar o envio de feedback para a API;
-- Permite o usuário realizar a captura de tela atual;
-- O Usuário pode enviar quantos feedbacks desejar;
-- É possível realizar todo o fluxo utilizando o teclado;
-- É possível utilizar a aplicação em dispositivos mobile e desktop;
+- Permite ao usuário realizar todo o fluxo utilizando o teclado;
+- Permite ao usuário realizar a captura de tela atual;
+- Permite ao usuário refazer o preenchimento do feedback;
+- Permite ao usuário enviar quantos feedbacks desejar;
+- Permite ao usuário navegar pela aplicação tanto em dispositivos móveis quanto em desktop;
 
 ## 🌎 Deploy
 

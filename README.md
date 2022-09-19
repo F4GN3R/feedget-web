@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/static/v1?label=NLW&message=Return&color=EE5057&labelColor=996DFF" alt="NLW Return" />
 </p>
 
-![cover](.github/layout.png?style=flat)
+![Feedget App](.github/layout.png)
 
 ## 💻 Projeto
 

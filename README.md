@@ -1,9 +1,11 @@
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=EE5057&labelColor=996DFF">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=Return&color=EE5057&labelColor=996DFF" alt="NLW Return" />
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=EE5057&labelColor=996DFF"/>
+  <img alt="NLW Return" src="https://img.shields.io/static/v1?label=NLW&message=Return&color=EE5057&labelColor=996DFF"/>
 </p>
 
-![Feedget App](.github/layout.png)
+<p align="center">
+  <img alt="Feedget App" src=".github/layout.png" />
+</p>
 
 ## 💻 Projeto
 

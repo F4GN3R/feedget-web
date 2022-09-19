@@ -51,7 +51,7 @@ npm run dev
 
 > Para acessar a aplicação digite http://localhost:5173 em seu browser
 
-> **Note** A API de integração também deve está em execução para que todo o fluxo funcione
+> **Note**: A API de integração também deve está em execução para que todo o fluxo funcione
 
 ## 📄 Licença
 
